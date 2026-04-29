@@ -38,6 +38,16 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
+## Principais Projetos
+
+- ***SuperId:*** Aplicativo Android em Kotlin para gerenciamento seguro de senhas, com autenticação via Firebase, integração com Firestore e Functions, login por QR Code em tempo real e interface moderna com Jetpack Compose
+
+- ***OPTY- Easy Purchase:*** Plataforma backend em Python (FastAPI) para busca e comparação de produtos, com API REST, web scraping para coleta de dados, tratamento e padronização de informações, persistência com MongoDB e autenticação via Supabase.
+
+- ***RPG:*** Sistema de RPG em console focado em Programação Orientada a Objetos, com uso de herança, polimorfismo e encapsulamento, incluindo hierarquia de classes, sistema de inventário e organização modular.
+
+- ***ETL:*** Pipeline ETL em Python para processamento de dados, com extração de CSV, limpeza e transformação com Pandas, tratamento de inconsistências e carga em MongoDB Atlas.
+---
 
 ## 📊 GitHub Stats
 
